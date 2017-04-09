@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+}
+.cap{
+  text-align: center;
+  background-color: none;
+  border-style: solid;
+  font-size: 23px
+}
+table{
+  margin: auto;
+}
+thead{
+  margin: auto;
+}
+tr{
+  margin: auto;
+}
+th{
+  border-style: solid;
+  margin: auto;
+  font-size: 23px
+}
+.noborder{
+  border-style: none;
+}
+.paint{
+  background-color: yellow
+}
+.paintmid{
+  background-color: red
+}
+.none{
+  background-color: white
+}
